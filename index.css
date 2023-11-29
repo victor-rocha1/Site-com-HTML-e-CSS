@@ -4,3 +4,14 @@
     margin: 0;
     padding: 0;
 }
+
+:root {
+    --cor-de-fundo: #030207;
+    --branca: #fff;
+    --azul: #1474b4;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branca);
+}
